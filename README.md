@@ -424,10 +424,19 @@ NOTE:  if ‘case statement’ is incomplete then it will also results into infe
         - ![image](https://user-images.githubusercontent.com/88780019/154962434-8e9603a2-d7bb-46be-a2e9-5f64419df0c3.png)
        - RTL simulation output:
          - ![image](https://user-images.githubusercontent.com/88780019/154962505-74a238cf-08a2-4169-9ac4-e9b9e03c0668.png)
+       - Synthesis output:
+         - ![image](https://user-images.githubusercontent.com/88780019/155015087-41f9d5d6-b074-410b-bbda-744bd1eaefdd.png)
+ 
       - d)	Generate for loop(Ripple carry adder):
         - ![image](https://user-images.githubusercontent.com/88780019/154962593-acda4aff-95bf-4e38-a3c8-d096255e896b.png)
        - RTL simulation:
          - ![image](https://user-images.githubusercontent.com/88780019/154962637-77a612a7-d073-49ba-8e45-3bf77b0610f9.png)
+       - Synthesis output:
+         - ![image](https://user-images.githubusercontent.com/88780019/155015556-12a9c865-240a-4257-8fa6-24a773531a3e.png)
+         - ![image](https://user-images.githubusercontent.com/88780019/155015821-1f53dedc-9cb7-42c4-b3cd-011ef8155d6e.png)
+
+  
+         
 
  
 ## Credits
@@ -481,7 +490,7 @@ NOTE:  if ‘case statement’ is incomplete then it will also results into infe
 
 
       
-       - 
+  
 
 
     
